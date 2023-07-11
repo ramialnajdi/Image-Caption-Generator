@@ -5,8 +5,9 @@ The goal of this project is to create an accurate caption for an image
 https://www.kaggle.com/datasets/adityajn105/flickr8k
 
 # Environment 
-google colab
+Google Colab
 
 # Models
 VGG16 neural network
+
 CNN-LSTM neural network
